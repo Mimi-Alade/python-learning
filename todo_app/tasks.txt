@@ -1,0 +1,11 @@
+clean funiture 
+clean fridge
+clean floors
+clean house
+clean car
+clean house
+clean house
+clean houses
+help laundry
+clean socks
+& "C:/Users/MiMi Gamer/Documents/Projects/python-learning/.venv/Scripts/python.exe" "c:/Users/MiMi Gamer/Documents/Projects/python-learning/todo_app/main.py"
